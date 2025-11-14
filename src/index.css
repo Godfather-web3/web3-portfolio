@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-black text-white font-sans;
+}
+
+.gradient-bg {
+  background: radial-gradient(circle at top left, #3B82F6, #8B5CF6 70%);
+}
+
+html {
+  scroll-behavior: smooth;
+}
