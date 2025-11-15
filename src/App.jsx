@@ -172,7 +172,7 @@ export default function App() {
               className="mt-6 text-sm sm:text-base text-neutral-300 max-w-xl mx-auto leading-relaxed"
             >
               I help Web3 brands grow through storytelling, community activation,
-              and growth strategy — building engaged ecosystems and converting attention into long-term value.
+              and growth strategy, building engaged ecosystems and converting attention into long-term value.
             </motion.p>
 
             <motion.a
@@ -201,7 +201,7 @@ export default function App() {
             </motion.h2>
 
             <p className="text-neutral-300 text-sm sm:text-base leading-relaxed">
-              I'm Godfather — a Web3 community & growth strategist focused on turning complex projects into clear narratives and active communities.
+              I'm Godfather a Web3 community & growth strategist focused on turning complex projects into clear narratives and active communities.
               I’ve led initiatives at DEVINVEST, supported token & NFT launches, and executed short-form campaigns that scale awareness and retention.
             </p>
           </div>
