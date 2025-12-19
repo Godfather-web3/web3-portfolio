@@ -137,7 +137,7 @@ function Navbar() {
 
 /* --------------------------- Main App --------------------------- */
 export default function App() {
-  return 
+  return (
     <div className="min-h-screen bg-black text-white antialiased">
       {/* subtle cinematic overlay */}
       <div
