@@ -137,7 +137,7 @@ function Navbar() {
 
 /* --------------------------- Main App --------------------------- */
 export default function App() {
-  return (
+  return 
     <div className="min-h-screen bg-black text-white antialiased">
       {/* subtle cinematic overlay */}
       <div
@@ -176,7 +176,7 @@ export default function App() {
             </motion.p>
 
             <motion.a
-              href="https://t.me/GODFATHER_ARMYY"
+              href="https://t.me/godfather_alt"
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.03 }}
@@ -261,7 +261,7 @@ export default function App() {
             </p>
 
             <div className="flex items-center justify-center gap-6">
-              <motion.a whileHover={{ scale: 1.15 }} href="https://t.me/GODFATHER_ARMYY" target="_blank" rel="noopener noreferrer" className="text-neutral-300 hover:text-red-600">
+              <motion.a whileHover={{ scale: 1.15 }} href="https://t.me/godfather_alt" target="_blank" rel="noopener noreferrer" className="text-neutral-300 hover:text-red-600">
                 <IconTelegram />
               </motion.a>
 
