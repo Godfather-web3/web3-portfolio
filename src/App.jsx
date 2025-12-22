@@ -2,16 +2,6 @@ import React, { useState } from "react";
 import { motion } from "framer-motion";
 
 /**
- * Final: Dark Cinematic (B) — Full App.jsx
- * - Self-contained single-file React component
- * - Responsive Navbar with hamburger (mobile slide menu)
- * - Cinematic Godfather theme (deep blacks, subtle red accents)
- * - Projects populated from your provided array
- * - Contact icons wired to your links
- *
- * Paste this entire file into src/App.jsx (replace existing).
- * Then run `npm run dev` (or commit & push -> Vercel will redeploy).
- */
 
 /* --------------------------- Projects data --------------------------- */
 const projects = [
@@ -265,7 +255,7 @@ export default function App() {
                 <IconTelegram />
               </motion.a>
 
-              <motion.a whileHover={{ scale: 1.15 }} href="https://x.com/godfather_dev" target="_blank" rel="noopener noreferrer" className="text-neutral-300 hover:text-red-600">
+              <motion.a whileHover={{ scale: 1.15 }} href="https://x.com/godfather_web3" target="_blank" rel="noopener noreferrer" className="text-neutral-300 hover:text-red-600">
                 <IconX />
               </motion.a>
 
